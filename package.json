@@ -43,7 +43,6 @@
     "marked-terminal": "^5.2.0",
     "merge-stream": "^2.0.0",
     "minimist": "^1.2.8",
-    "node-sass": "^8.0.0",
     "postcss": "^8.4.32",
     "postcss-reporter": "^7.0.5",
     "progress": "^2.0.3",
