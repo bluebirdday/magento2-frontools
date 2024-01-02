@@ -1,7 +1,7 @@
 import gulp from 'gulp'
 import path from 'path'
 import gulpIf from 'gulp-if'
-import dartSass from 'sass'
+import * as dartSass from 'sass'
 import nodeSass from 'node-sass'
 import gulpSass from 'gulp-sass'
 import rename from 'gulp-rename'
