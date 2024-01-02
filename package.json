@@ -4,7 +4,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/mooore-digital/magento2-frontools"
+    "url": "https://github.com/bluebirdday/magento2-frontools"
   },
   "license": "MIT",
   "dependencies": {
